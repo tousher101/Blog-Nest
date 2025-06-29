@@ -1,7 +1,7 @@
 # Blog-Nest App
 A full features of blog post App, and responsive UI using TailwindCSS.
 
-#features
+# Features
 - Email Verification.
 - Forget Password.
 - Remember Me.
