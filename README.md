@@ -24,6 +24,7 @@ A full features of blog post App, and responsive UI using TailwindCSS.
 - MySQL(Prisma)
 - Stripe (Payment)
 - JWT (Token System)
+- Resend (Email Verification)
 
 ## Live Demo
 Not Available.
